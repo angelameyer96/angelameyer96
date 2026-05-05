@@ -40,7 +40,7 @@ Built a binary classification neural network in TensorFlow to predict patient su
 
 `Python` `TensorFlow` `Keras` `Pandas` `scikit-learn`
 
-▶️ [Run in Colab](https://colab.research.google.com/drive/1jwexECn8oHBoGnzZegaLqDHVc2pC2l7B?usp=sharing) &nbsp;|&nbsp; 📓 [Notebook](https://github.com/angelameyer96/angelameyer96.github.io/blob/main/projects/cirrhosis-ml/ameyer_cirrhosis.ipynb) &nbsp;|&nbsp; 📄 [Report](https://github.com/angelameyer96/angelameyer96.github.io/blob/main/projects/cirrhosis-ml/ameyer_cirrhosis_report.pdf)
+▶️ [Run in Colab](https://colab.research.google.com/drive/1jwexECn8oHBoGnzZegaLqDHVc2pC2l7B?usp=sharing) &nbsp;|&nbsp; 📓 [Notebook](https://github.com/angelameyer96/angelameyer96.github.io/blob/main/projects/cirrhosis-ml/ameyer_cirrhosis.ipynb) &nbsp;|&nbsp; 📄 [Report](https://github.com/angelameyer96/angelameyer96.github.io/blob/main/projects/cirrhosis-ml/ameyer_cirrhosis_report.pdf) &nbsp;|&nbsp; 📊 [Dataset (CSV)](https://github.com/angelameyer96/angelameyer96.github.io/blob/main/projects/cirrhosis-ml/cirrhosis.csv)
 
 ---
 
