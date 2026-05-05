@@ -1,4 +1,3 @@
-[profile-README.md](https://github.com/user-attachments/files/27411480/profile-README.md)
 # Hi, I'm Angela Meyer 👋
 
 **Cybersecurity & Network Administration Student | Del Mar College**  
